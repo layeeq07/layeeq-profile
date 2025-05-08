@@ -9,30 +9,34 @@ const projects = [
     name: "Coffee Shop Website",
     year: "Mar 2023",
     align: "right",
-    image: "{`${import.meta.env.BASE_URL}images/Coffee.png", // served from public/
+    image: "{`${import.meta.env.BASE_URL}images/Coffee.png`}", // served from public/
     link: "https://layeeq07.github.io/Coffee-Shop-/"
   },
+  
   {
     name: "PROMS Web Application",
     year: "Sept 2024",
     align: "left",
-    image: "{`${import.meta.env.BASE_URL}images/Proms.png",
+    image: "{`${import.meta.env.BASE_URL}images/Proms.png`}",
     link: "https://app.wehealthify.org/proms/"
   },
+  
   {
     name: "Pizza Slider",
     year: "Jan 2022",
     align: "right",
-    image: "{`${import.meta.env.BASE_URL}images/Pizza.png",
+    image: "{`${import.meta.env.BASE_URL}images/Pizza.png`}",
     link: "https://layeeq07.github.io/Pizza-Slider/"
   },
+  
   {
     name: "Furni Shop",
     year: "May 2025",
     align: "left",
-    image: "{`${import.meta.env.BASE_URL}images/Furni.png",
+    image: "{`${import.meta.env.BASE_URL}images/Furni.png`}",
     link: "https://layeeq07.github.io/Furni-Shop/"
   }
+  
 ];
 
 const ProjectsMain = () => (
