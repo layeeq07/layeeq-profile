@@ -9,28 +9,28 @@ const projects = [
     name: "Coffee Shop Website",
     year: "Mar 2023",
     align: "right",
-    image: "/public/images/Coffee.png", // served from public/
+    image: "/images/Coffee.png", // served from public/
     link: "https://layeeq07.github.io/Coffee-Shop-/"
   },
   {
     name: "PROMS Web Application",
     year: "Sept 2024",
     align: "left",
-    image: "/public/images/Proms.png",
+    image: "/images/Proms.png",
     link: "https://app.wehealthify.org/proms/"
   },
   {
     name: "Pizza Slider",
     year: "Jan 2022",
     align: "right",
-    image: "/public/images/Pizza.png",
+    image: "/images/Pizza.png",
     link: "https://layeeq07.github.io/Pizza-Slider/"
   },
   {
     name: "Furni Shop",
     year: "May 2025",
     align: "left",
-    image: "/public/images/Furni.png",
+    image: "/images/Furni.png",
     link: "https://layeeq07.github.io/Furni-Shop/"
   }
 ];
